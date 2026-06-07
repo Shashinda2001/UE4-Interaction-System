@@ -1,0 +1,25 @@
+# Visual Studio 2015/2017/2019/2022 cache and build results
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Unreal Engine temporary folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Built configuration folders
+Makefile
+CMakeLists.txt
+.ue4tasks.json
+
+# Audio/Video track exports
+/Movies/*
+
+# Plugins
+/Plugins/Developer/
